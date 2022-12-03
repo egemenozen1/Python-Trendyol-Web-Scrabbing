@@ -1,0 +1,1 @@
+# Python-Trendyol-Web-Scrabbing
